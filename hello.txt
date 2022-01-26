@@ -14,5 +14,6 @@
 123123123123
 更改后的一次addsomething
 我是master提交的代码
+这时我测试冲突的addsomething的代码
 
 
